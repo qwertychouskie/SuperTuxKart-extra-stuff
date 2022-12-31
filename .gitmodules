@@ -1,0 +1,3 @@
+[submodule "Music/supertux_music"]
+	path = Music/OliverBurkardt-STK-Music
+	url = https://github.com/OliverBurkardt/supertux_music.git
